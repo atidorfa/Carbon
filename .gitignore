@@ -1,3 +1,4 @@
+# Unreal Engine 5 ignores
 Binaries
 DerivedDataCache
 Intermediate
@@ -12,3 +13,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# IDE ignores
+.DS_Store
+.idea
